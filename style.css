@@ -11,10 +11,11 @@ img{
     padding-right: 1em;
 }
 
-a{
+a:link{
     color: white;
     font-weight: bold;
 }
+
 .hobbies{
 display: flex;
 }
