@@ -10,6 +10,9 @@ text-align: center;
 img{
     padding-right: 1em;
 }
+p{
+    color: white;
+}
 
 a:link{
     color: white;
