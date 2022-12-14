@@ -10,6 +10,11 @@ text-align: center;
 img{
     padding-right: 1em;
 }
+
+a{
+    color: white;
+    font-weight: bold;
+}
 .hobbies{
 display: flex;
 }
